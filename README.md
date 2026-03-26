@@ -2,65 +2,77 @@
 
 ## 📌 Project Overview
 
-This project presents a **Power BI dashboard** designed to analyze my daily routine, focusing on productivity, health, and lifestyle patterns. The dashboard provides meaningful insights into how daily habits influence overall performance.
+The **Personal Life Analytics Dashboard** is an interactive data visualization project built using Power BI to analyze daily routine patterns. It provides insights into productivity, health, and lifestyle behavior by transforming real-time personal data into meaningful visualizations.
+
+This project demonstrates how personal data can be leveraged to improve decision-making and overall performance.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Project Objectives
 
-* Track and analyze daily activities
-* Measure productivity trends over time
-* Monitor health metrics (steps, calories, screen time)
-* Identify patterns affecting performance
-
----
-
-## 🛠️ Tools & Technologies
-
-* Power BI
-* CSV Dataset
-* Data Visualization Techniques
+* Track daily activities and habits
+* Analyze productivity trends over time
+* Monitor health metrics such as steps, calories, and screen time
+* Identify patterns affecting performance and lifestyle
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard Features
 
-![Dashboard Image](dashboard.png (3).png)
-
----
-
-## 📈 Key Features
-
-* 📌 KPI Cards (Steps, Calories, Productivity, Screen Time)
+* 📌 KPI Cards (Steps, Calories Burned, Productivity Score, Screen Time)
 * 📈 Productivity Trend Analysis
-* 🧩 Activity Breakdown (Donut Chart)
+* 🧩 Activity Distribution (Donut Chart)
 * ⚖️ Screen Time vs Productivity (Scatter Plot)
-* 😊 Mood & Behavior Insights
+* 😊 Mood & Behavior Analysis
+* 🎛 Interactive slicers for filtering data
+
+---
+
+## 🛠 Tools & Technologies Used
+
+* **Power BI** – Dashboard creation and visualization
+* **CSV Dataset** – Data collection and storage
+* **Data Analytics Techniques** – Insight generation
+* **GitHub** – Project hosting and version control
+
+---
+
+## 📂 Project Structure
+
+personal-life-dashboard
+│
+├── dashboard.pbix
+├── daily_routine_dataset.csv
+├── dashboard.png
+└── README.md
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
 
 ---
 
 ## 📊 Key Insights
 
-* Average daily steps reflect consistent physical activity
-* Increased screen time impacts productivity levels
-* Better sleep and routine improve overall performance
+* Average daily steps indicate consistent physical activity
+* Increased screen time may impact productivity levels
+* Structured routines improve overall efficiency
 
 ---
 
-## 📂 Project Files
+## 🎯 Project Domain
 
-* `Personal_Life_Dashboard.pbix`
-* `daily_routine_dataset.csv`
-* `dashboard.png`
+**Personal Analytics / Data Analytics**
 
 ---
 
 ## 🚀 Conclusion
 
-This dashboard helps in understanding personal habits using data-driven insights. It can be used to improve daily efficiency, health, and overall lifestyle.
+This project highlights how personal routine data can be analyzed using business intelligence tools to generate actionable insights for improving productivity, health, and lifestyle.
 
 ---
 
-## 📬 Contact
-
-For any queries or feedback, feel free to connect.
+🔗 GitHub Profile:
+https://github.com/adonjoseph345-creator
