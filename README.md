@@ -25,7 +25,7 @@ This project presents a **Power BI dashboard** designed to analyze my daily rout
 
 ## 📊 Dashboard Preview
 
-("dashboard.png.png")
+![Dashboard Image](dashboard.png)
 
 ---
 
@@ -43,7 +43,15 @@ This project presents a **Power BI dashboard** designed to analyze my daily rout
 
 * Average daily steps reflect consistent physical activity
 * Increased screen time impacts productivity levels
-* Better sleep and routine improve overall performance.
+* Better sleep and routine improve overall performance
+
+---
+
+## 📂 Project Files
+
+* `Personal_Life_Dashboard.pbix`
+* `daily_routine_dataset.csv`
+* `dashboard.png`
 
 ---
 
@@ -51,4 +59,8 @@ This project presents a **Power BI dashboard** designed to analyze my daily rout
 
 This dashboard helps in understanding personal habits using data-driven insights. It can be used to improve daily efficiency, health, and overall lifestyle.
 
+---
 
+## 📬 Contact
+
+For any queries or feedback, feel free to connect.
