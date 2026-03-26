@@ -25,7 +25,7 @@ This project presents a **Power BI dashboard** designed to analyze my daily rout
 
 ## 📊 Dashboard Preview
 
-![Dashboard Image]("C:\Users\lenovo\OneDrive\Pictures\Screenshots\dashboard.png (3).png")
+![Dashboard Image]("dashboard.png (3).png")
 
 ---
 
