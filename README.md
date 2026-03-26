@@ -2,38 +2,53 @@
 
 ## 📌 Project Overview
 
-This project is a Power BI dashboard that analyzes my daily routine, including productivity, health, and lifestyle patterns.
+This project presents a **Power BI dashboard** designed to analyze my daily routine, focusing on productivity, health, and lifestyle patterns. The dashboard provides meaningful insights into how daily habits influence overall performance.
+
+---
 
 ## 🎯 Objectives
 
-* Track daily activities and habits
-* Analyze productivity trends
-* Monitor health metrics like steps, calories, and screen time
+* Track and analyze daily activities
+* Measure productivity trends over time
+* Monitor health metrics (steps, calories, screen time)
+* Identify patterns affecting performance
 
-## 🛠 Tools Used
+---
+
+## 🛠️ Tools & Technologies
 
 * Power BI
-* Excel / CSV
-* Data Analytics
+* CSV Dataset
+* Data Visualization Techniques
 
-## 📊 Dashboard Features
+---
 
-* KPI Cards (Steps, Calories, Productivity, Screen Time)
-* Activity Breakdown (Donut Chart)
-* Productivity Trend (Line Chart)
-* Screen Time vs Productivity (Scatter Plot)
+## 📊 Dashboard Preview
 
-## 📈 Key Insights
+![Dashboard Image](dashboard.png)
 
-* Average daily steps and activity patterns
-* Relationship between screen time and productivity
-* Health and lifestyle improvements
+---
 
-## 📂 Files Included
+## 📈 Key Features
 
-* `.pbix` file (Power BI Dashboard)
-* Dataset (CSV file)
+* 📌 KPI Cards (Steps, Calories, Productivity, Screen Time)
+* 📈 Productivity Trend Analysis
+* 🧩 Activity Breakdown (Donut Chart)
+* ⚖️ Screen Time vs Productivity (Scatter Plot)
+* 😊 Mood & Behavior Insights
+
+---
+
+## 📊 Key Insights
+
+* Average daily steps reflect consistent physical activity
+* Increased screen time impacts productivity levels
+* Better sleep and routine improve overall performance.
+
+---
 
 ## 🚀 Conclusion
 
-This dashboard helps in understanding personal habits and improving daily performance through data-driven insights.
+This dashboard helps in understanding personal habits using data-driven insights. It can be used to improve daily efficiency, health, and overall lifestyle.
+
+
